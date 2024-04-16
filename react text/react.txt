@@ -1,0 +1,43 @@
+what is react?
+React is a JavaScript library created by Facebook
+
+React is a User Interface (UI) library
+
+React is a tool for building UI components
+
+------------------------------------------------------------------------------------------------
+
+What is npm & node 
+Node.js is a cross-platform, open-source JavaScript runtime environment that can run on Windows, Linux, Unix, macOS, and more. Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting
+
+NPM is a package manager for Node.js packages, or modules if you like.
+
+www.npmjs.com hosts thousands of free packages to download and use.
+
+The NPM program is installed on your computer when you install Node.js
+
+
+-------------------------------------------------------------------------------------------------
+
+Introduction of React
+Features
+Benefits
+
+
+Features:-
+JSX(JavaScript Syntax Extension)
+Virtual DOM
+One-way Data Binding
+Performance
+Extension
+Conditional Statements
+Components
+Simplicity
+
+Benefits:-
+Speed
+Flexibility
+Performance
+usability
+Resuable components
+Mobile app development
